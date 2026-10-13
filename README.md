@@ -10,7 +10,7 @@ Acest pachet conține un microsite public static pentru setările Meta for Devel
 
 ## Identitatea operatorului și publicarea
 
-Operatorul este **T2K Skyline Group SRL**; contact: `t2k.skyline.group@gmail.com`. Numele operatorului este confirmat, dar pentru conformitate juridică deplină **sediul social și detaliile de înregistrare trebuie verificate și completate** înainte de a prezenta site-ul drept documentație juridică definitivă. Nu se inventează CUI-ul sau adresa legală.
+Operator: **T2K Skyline Group SRL**. CUI declarat de titular: **29748531**. Adresă declarată de titular: **Strungarilor 1, F2, 44, Galați, România**. Contact: `t2k.skyline.group@gmail.com`. Identitatea și adresa au fost completate pe baza informațiilor furnizate de titular, fără validare independentă în registrul firmelor. Codul poștal, datele registrului comerțului și eventuala calitate de sediu social nu au fost confirmate separat.
 
 Aceste pagini reflectă funcțiile prototipului Android verificate la 13 octombrie 2026; textul nu este aviz juridic.
 
@@ -31,4 +31,4 @@ Actualizat: 13.10.2026
 
 ## STADIU 13 octombrie 2026
 
-Operator: T2K Skyline Group SRL; e-mail public confirmat. Documentele sunt pregătite în repository; GitHub Pages trebuie activat în Settings → Pages și linkurile HTTPS verificate public înainte de folosirea în Meta. Pentru un document legal definitiv rămâne de confirmat sediul social al societății și, dacă este cazul, datele de înregistrare.
+Operator: T2K Skyline Group SRL; e-mail public confirmat. Documentele sunt pregătite în repository; GitHub Pages trebuie activat în Settings → Pages și linkurile HTTPS verificate public înainte de folosirea în Meta. CUI 29748531 și adresa Strungarilor 1, F2, 44, Galați, România au fost adăugate conform datelor furnizate de titular. Înainte de prezentarea documentelor drept aviz juridic definitiv, verifică corespondența adresei cu sediul social înregistrat și, dacă este necesar, datele Registrului Comerțului.
